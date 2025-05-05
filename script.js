@@ -1,5 +1,5 @@
 
-import { MusicTools } from './MusicTools.js';
+import { MusicTools } from './musictools.js';
 
 // midi to freq
 document.getElementById('midiToFreq').addEventListener('click', () => {
